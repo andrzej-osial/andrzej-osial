@@ -14,6 +14,7 @@ data and AI agents.
 ## Featured project
 
 **[Source-Ranked Second Brain](https://github.com/andrzej-osial/source-ranked-second-brain)**
+
 An AI-assisted knowledge system that turns hundreds of conflicting documents
 into source-ranked, traceable facts — with a human approving every change.
 Field-tested on a residential project run developer-style; applicable to due diligence,
@@ -29,7 +30,7 @@ management boards of technology, energy and education companies.
 
 ## Contact
 
-📧 andrzej.osial@aicentury.pl
+📧 andrzej.osial@aicentury.pl  
 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-osial)
 
 ---
@@ -50,6 +51,7 @@ danymi i agentami AI.
 ### Wyróżniony projekt
 
 **[Source-Ranked Second Brain](https://github.com/andrzej-osial/source-ranked-second-brain)**
+
 System wiedzy wspierany przez AI, który zamienia setki sprzecznych dokumentów
 w fakty uporządkowane według wiarygodności źródła — a każdą zmianę zatwierdza człowiek.
 Sprawdzony na inwestycji mieszkaniowej prowadzonej jak projekt deweloperski; sprawdza się też w due diligence,
@@ -65,5 +67,5 @@ w radach nadzorczych i zarządach firm technologicznych, energetycznych i edukac
 
 ### Kontakt
 
-📧 andrzej.osial@aicentury.pl
+📧 andrzej.osial@aicentury.pl  
 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-osial)
